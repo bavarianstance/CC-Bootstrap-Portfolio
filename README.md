@@ -3,10 +3,12 @@
 * CSS
 * SASS
 * Javascript
+* jQuery
 * Bootstrap V4+
 
 ## Comments
-* Redesign / update
+* Redesign / updated with modern bootstrap template
+
 
 ## About
 
